@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{C9D7E244-F6F5-44EC-B460-428471709B62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringJoinVsStringBuilder", "StringJoinVsStringBuilder\StringJoinVsStringBuilder.csproj", "{1593D5D5-0D46-4458-B79F-4D52D6B5D251}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C9D7E244-F6F5-44EC-B460-428471709B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9D7E244-F6F5-44EC-B460-428471709B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9D7E244-F6F5-44EC-B460-428471709B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1593D5D5-0D46-4458-B79F-4D52D6B5D251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1593D5D5-0D46-4458-B79F-4D52D6B5D251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1593D5D5-0D46-4458-B79F-4D52D6B5D251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1593D5D5-0D46-4458-B79F-4D52D6B5D251}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
